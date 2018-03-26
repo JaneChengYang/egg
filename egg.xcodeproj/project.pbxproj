@@ -12,6 +12,7 @@
 		F4658F1C20695B3600B4CA82 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4658F1A20695B3600B4CA82 /* Main.storyboard */; };
 		F4658F1E20695B3600B4CA82 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4658F1D20695B3600B4CA82 /* Assets.xcassets */; };
 		F4658F2120695B3600B4CA82 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4658F1F20695B3600B4CA82 /* LaunchScreen.storyboard */; };
+		F4658F2920695B6F00B4CA82 /* eggViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4658F2820695B6F00B4CA82 /* eggViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F4658F1D20695B3600B4CA82 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F4658F2020695B3600B4CA82 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F4658F2220695B3600B4CA82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F4658F2820695B6F00B4CA82 /* eggViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = eggViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				F4658F1820695B3600B4CA82 /* ViewController.swift */,
 				F4658F1A20695B3600B4CA82 /* Main.storyboard */,
 				F4658F1D20695B3600B4CA82 /* Assets.xcassets */,
+				F4658F2820695B6F00B4CA82 /* eggViewController.swift */,
 				F4658F1F20695B3600B4CA82 /* LaunchScreen.storyboard */,
 				F4658F2220695B3600B4CA82 /* Info.plist */,
 			);
@@ -138,6 +141,7 @@
 			files = (
 				F4658F1920695B3600B4CA82 /* ViewController.swift in Sources */,
 				F4658F1720695B3600B4CA82 /* AppDelegate.swift in Sources */,
+				F4658F2920695B6F00B4CA82 /* eggViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
